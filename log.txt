@@ -1,0 +1,10 @@
+员工信息表：
+name    salary  year    month   date    
+aa      120     1999    2       4       
+bb      190     1889    5       6       
+经理信息表：
+name    salary  bonus   year    month   date    
+cc      13333   13333   1945    9       14      
+股东信息表：
+name    share   
+ss      90      
